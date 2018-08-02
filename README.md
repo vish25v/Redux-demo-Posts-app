@@ -1,3 +1,14 @@
+
+
+A React.js-Redux.js app for diplaying posts from 3rd party library and add new posts from user input.
+
+Demostrated the use of
+React components, controlled form using react events, 'fetch' ajax call
+'redux', 'react-redux', 'redux-thunk' libs,
+Redux's elements like : store, actions, reducers, dispatcher, thunk-middleware, combineReducer etc. for "state management"
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
